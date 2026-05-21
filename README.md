@@ -50,11 +50,12 @@
 <div align="center">
 
 <a href="https://github.com/cl3af/JessicaMartins">Landing page web desenvolvida para cliente real.</a> <br> <br>
-</a>
+<a href="https://jessicamartins.netlify.app">Deploy da lading page</a>
 
 </div>
-
-
+<div align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHBydDBwODl0am90OW1mMG44dXhyZWlwNXViN2JqNnVpZnJoZHpwYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3diu2dFNpV8AnozJ3V/giphy.gif" width="700px"/> <br>
+</div>
 ---
 
 ## 📫 Contato
