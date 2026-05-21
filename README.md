@@ -4,6 +4,8 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWQzZDEydDA3YWVlbmU4dHNrdzBrdGNkdXExd2Izbm95NDR1Z2ZzdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NKEt9elQ5cR68/giphy.gif" width="700px"/> <br>
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=cl3af&show_icons=true&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cl3af&layout=compact&theme=tokyonight"/>
+  <img src="https://komarev.com/ghpvc/?username=cl3af&color=blueviolet">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=A020F0&size=35&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Web;Linux+%7C+Cybersecurity;Python+%7C+JavaScript;Sempre+aprendendo+algo+novo">
 </div>
 
 ---
