@@ -1,7 +1,7 @@
 <h1 align="center">Alexandre Soares</h1>
 
 <div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemZtc3Jwc2txa21uc3MxNzhtbWw4bTE1cGoxOHZ6ejc5d3JjYXZ3YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uSWjDaqhuJoAGzxbQK/giphy.gif"/> <br>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWQzZDEydDA3YWVlbmU4dHNrdzBrdGNkdXExd2Izbm95NDR1Z2ZzdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NKEt9elQ5cR68/giphy.gif" width="700px"/> <br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSER&show_icons=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSER&layout=compact"/>
 </div>
@@ -49,8 +49,7 @@
 
 <div align="center">
 
-<a href="LINK_DO_PROJETO">Landing page web desenvolvida para cliente real.</a> <br> <br>
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWQzZDEydDA3YWVlbmU4dHNrdzBrdGNkdXExd2Izbm95NDR1Z2ZzdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NKEt9elQ5cR68/giphy.gif" width="700px"/>
+<a href="https://github.com/cl3af/JessicaMartins">Landing page web desenvolvida para cliente real.</a> <br> <br>
 </a>
 
 </div>
