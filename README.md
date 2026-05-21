@@ -2,8 +2,8 @@
 
 <div align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWQzZDEydDA3YWVlbmU4dHNrdzBrdGNkdXExd2Izbm95NDR1Z2ZzdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NKEt9elQ5cR68/giphy.gif" width="700px"/> <br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSER&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSER&layout=compact"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cl3af&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cl3af&layout=compact"/>
 </div>
 
 ---
