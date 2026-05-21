@@ -63,23 +63,12 @@
 ## 📫 Contato
 
 <div>
-
-  <a href="https://wa.me/5511945322802" target="_blank">
-    <img align="center" alt="WhatsApp" height="30" width="40"
-      src="https://cdn.simpleicons.org/whatsapp">
-    WhatsApp
-  </a>
-
-  <br><br>
-
   <a href="https://www.instagram.com/kl3af_alex/" target="_blank">
     <img align="center" alt="Instagram" height="30" width="40"
       src="https://cdn.simpleicons.org/instagram">
     Instagram
   </a>
-
-  <br><br>
-
+<br>
   <a href="https://www.linkedin.com/in/alexandre-soares-08a101365/" target="_blank">
     <img align="center" alt="LinkedIn" height="30" width="40"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
