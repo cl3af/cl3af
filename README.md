@@ -5,7 +5,7 @@
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=cl3af&show_icons=true&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cl3af&layout=compact&theme=tokyonight"/>
   <img src="https://komarev.com/ghpvc/?username=cl3af&color=blueviolet">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=A020F0&size=35&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Web;Linux+%7C+Cybersecurity;Python+%7C+JavaScript;Sempre+aprendendo+algo+novo">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=A020F0&size=35&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Web;Linux+%7C;Python;JavaScript;Sempre+aprendendo+algo+novo">
 </div>
 
 ---
