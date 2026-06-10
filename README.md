@@ -47,12 +47,14 @@
 
 ---
 
-## 🌐 Projeto em destaque
+## 🌐 Projetos em destaque
 
 <div align="center">
 
 <a href="https://github.com/cl3af/JessicaMartins">Landing page web desenvolvida para cliente real.</a> <br> <br>
-<a href="https://jessicamartins.netlify.app">Deploy da lading page</a>
+<a href="https://jessicamartins.netlify.app">Deploy da lading page da cliente</a> <br> <br>
+<a href="https://github.com/cl3af/portfolio">Meu portfolio rodando online</a> <br> <br>
+<a href="https://cl3af.netlify.app">Deploy da Minha landing page</a>
 
 </div>
 <div align="center">
