@@ -53,7 +53,7 @@
 
 <a href="https://github.com/cl3af/JessicaMartins">Landing page web desenvolvida para cliente real.</a> <br> <br>
 <a href="https://jessicamartins.netlify.app">Deploy da lading page da cliente</a> <br> <br>
-<a href="https://github.com/cl3af/perfumaria-Fidelius">Landing page web com sistem CRUD desenvolvida para cliente. </a><br><br>
+<a href="https://github.com/cl3af/perfumaria-Fidelius">Landing page web com sistema CRUD desenvolvida para cliente. </a><br><br>
 <a href="https://github.com/cl3af/portfolio">Meu portfolio rodando online</a> <br> <br>
 <a href="https://cl3af.netlify.app">Deploy do meu portfolio</a>
 
